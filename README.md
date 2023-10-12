@@ -3,7 +3,7 @@
 
 Repo: https://ucsb-cs156-f23/jpa02-cstraw2021
 
-Deployed at: https://jpa02-cstraw.dokku-06.cs.ucsb.edu
+Deployed at: https://jpa02-cstraw2021.dokku-06.cs.ucsb.edu
 
 
 # About this repo
